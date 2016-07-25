@@ -40,4 +40,4 @@ Internet Explorer 6 -> Are you serious??!!
 - Style is the servant of brand and content, style without purpose is noise
 - Remove each detail from your design until it ... breaks
 - Nobody waits => Speed is to today design what ornament was to yesterdays
-- Don't design to prove you're clever.
+- Don't design to prove your clever. Make your user thinks they are clever
