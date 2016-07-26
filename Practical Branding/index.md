@@ -10,11 +10,16 @@
 - "Boring and predictable designs"
 - "We keep waiting for permission" - in the old days the web was 'hacky'. Like using images for rounded corners.
 - We've actually been stealing UI and UI patterns from the big players like Apple.
-- "Design without purpose is noise"
-- "Quantity over Quality"
-- "Find your authentic story"
-- "Get your users to create your content"
-- "Create tension by playing with contradictions"
+
+> "Design without purpose is noise"
+
+> "Quantity over Quality"
+
+> "Find your authentic story"
+
+> "Get your users to create your content"
+
+> "Create tension by playing with contradictions"
 
 ###Rise of progressive enhancement
 - "Branding is the product is deliberate conception" - "Branding is not a pattern library or mood board"
@@ -29,8 +34,7 @@
 - Logo mark, color palette, art direction and typefaces
 
 ####Logo mark
-- Logo mark -> Many people think their logo is their brand
--- "Your logo is not your brand, but simply a foundation and identifier"
+- Logo mark -> Many people think their logo is their brand AND "Your logo is not your brand, but simply a foundation and identifier"
 - "An icon should be neutral enough" - Shaun Adams
 - Spotify, Airbnb and VOX are examples of good redesign
 - Airbnb wanted to create a symbol with their redesign
