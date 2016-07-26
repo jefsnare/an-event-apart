@@ -3,20 +3,20 @@
 - What kind of impression we want to make?
 - http://labs.jensimmons.com
 
-- Editorial Design
+##Editorial Design
 - Cath Caldwell & Yolanda Zappaterra - Editorial Design
 - The idea of communicating an idea of story
 - Every framework is based on the same model, twelve columns
 - Great post about Box-sizing: Border-box - Paul Irish
 - Layout shouldn't be a multiple choice question
 - Separate tooling needs from the design process
-- Booktip: Grids and page layouts
+- Book tip: Grids and page layouts
 - Communicate using space & create an Oasis
 - Design the HTML first!
 - Add context to your HTML
 - Add role attributes to your document structure
 
-###Tips and tricks
+##Tips and tricks
 - `p::first-letter` && `initial-letter: 4`
 - `@supports()` query
 - `object-fit` property - crops the image
