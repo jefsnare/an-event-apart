@@ -12,5 +12,3 @@
 - Placeholder should be an existing hint, clone placeholder into label
 - People forget things
 - How could you improve your interface to make it better for mouse movement in one direction at a time? Drag to one direction
-- Focus on the problem not the problem
-- 
