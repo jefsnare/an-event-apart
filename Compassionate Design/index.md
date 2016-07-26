@@ -10,3 +10,4 @@
 - Edge case is a problematic term -> Stress case
 - Identify assumptions
 - At every step, they find the assumptions and subvert them
+- Book tip: Forms that Work
