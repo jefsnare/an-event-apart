@@ -6,7 +6,7 @@
 - "Our industry has not *designed* for performance"
 - "Fast page load time build trust in your website"
 
-    `Performance + Aesthetics =  User Experience`
+> Performance + Aesthetics =  User Experience
 
 - Mobile Network 300ms loading average, Desktop Wifi 50ms
 - webpagetest.com must have for testing with lower speeds and insights in how your pages load
@@ -37,7 +37,7 @@
 - Introduced in 2010, both lossless and lossy
 - Predicts a value then encodes the difference between the predication and actual value
 
-    `Replace simple images with SVG`
+> Replace simple images with SVG
 
 ###SVG
 - XML based vector image format
