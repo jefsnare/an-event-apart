@@ -65,10 +65,10 @@
 > Post and discuss
 
 #####Blameless approach
-> Actions taken
-> Outcomes observed
-> Results expected
-> Assumptions made
-> Events observed
+- Actions taken
+- Outcomes observed
+- Results expected
+- Assumptions made
+- Events observed
 
 > Everyone in the room believes they are doing the right thing
