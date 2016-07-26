@@ -9,7 +9,7 @@ Internet Explorer 6 -> Are you serious??!!
 - No one likes HTML E-mails, it never gets better. If you don't want to learn something, do HTML E-mails
 - The Web has moved from HTML E-mails a while ago
 - https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout
-- Now: React.JS -> https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
+- https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
 - Then, Bloat: Dreamweaver - Photoshop, Mockup, Development space.. It where awesome times
 - Now, Bloat: Bootstrap - It's not the right environment to use on production, this is ideal for prototyping. If we want to write lean, mean, good code. We should write on our own.
 - We need to design & code for ourself
