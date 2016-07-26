@@ -7,7 +7,7 @@
 - http://motionandmeaning.io
 - Aim to build your own animation library
 - Art of the Title, Capptivate.co, Uyi.io
-- rfld.me/design-animate
+- http://rfld.me/design-animate
 
 ##Principles of animation
 
